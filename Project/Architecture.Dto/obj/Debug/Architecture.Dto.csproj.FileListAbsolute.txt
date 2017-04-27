@@ -1,0 +1,12 @@
+C:\Users\Vijaysekhar\Desktop\MyArchtecture\Project\Architecture.Dto\bin\Debug\Architecture.Dto.dll.config
+C:\Users\Vijaysekhar\Desktop\MyArchtecture\Project\Architecture.Dto\bin\Debug\Architecture.Dto.dll
+C:\Users\Vijaysekhar\Desktop\MyArchtecture\Project\Architecture.Dto\bin\Debug\Architecture.Dto.pdb
+C:\Users\Vijaysekhar\Desktop\MyArchtecture\Project\Architecture.Dto\obj\Debug\Architecture.Dto.dll
+C:\Users\Vijaysekhar\Desktop\MyArchtecture\Project\Architecture.Dto\obj\Debug\Architecture.Dto.pdb
+C:\Users\Vijaysekhar\Desktop\MyArchtecture\Project\Architecture.Dto\obj\Debug\Architecture.Dto.csprojResolveAssemblyReference.cache
+C:\Users\Vijaysekhar\Desktop\Architecture\Project\Architecture.Dto\bin\Debug\Architecture.Dto.dll.config
+C:\Users\Vijaysekhar\Desktop\Architecture\Project\Architecture.Dto\bin\Debug\Architecture.Dto.dll
+C:\Users\Vijaysekhar\Desktop\Architecture\Project\Architecture.Dto\bin\Debug\Architecture.Dto.pdb
+C:\Users\Vijaysekhar\Desktop\Architecture\Project\Architecture.Dto\obj\Debug\Architecture.Dto.csprojResolveAssemblyReference.cache
+C:\Users\Vijaysekhar\Desktop\Architecture\Project\Architecture.Dto\obj\Debug\Architecture.Dto.dll
+C:\Users\Vijaysekhar\Desktop\Architecture\Project\Architecture.Dto\obj\Debug\Architecture.Dto.pdb
